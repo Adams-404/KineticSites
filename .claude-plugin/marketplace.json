@@ -1,0 +1,20 @@
+{
+  "name": "kineticsites",
+  "description": "Free Claude skills from KineticSites for building award-level websites.",
+  "owner": {
+    "name": "KineticSites",
+    "url": "https://thelazydev.tech"
+  },
+  "plugins": [
+    {
+      "name": "kinetic-sites",
+      "source": "./plugins/kineticsites-web-builder",
+      "description": "Build award-level, cinematic landing pages and hero sections instead of average AI layouts.",
+      "author": {
+        "name": "KineticSites"
+      },
+      "homepage": "https://thelazydev.tech/?utm_source=github&utm_medium=claude-skill&utm_campaign=web-builder",
+      "category": "design"
+    }
+  ]
+}
