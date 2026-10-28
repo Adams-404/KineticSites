@@ -53,15 +53,5 @@ Just ask Claude for a site. The skill kicks in automatically:
 - *"Write a Lovable prompt for a waitlist page for my AI travel app."*
 - *"Here's my current site: make it look award-winning."*
 
-## Want the full library?
-The examples and media in this skill are a **free sample**. **[KineticSites Unlimited](https://thelazydev.tech/unlimited?utm_source=github&utm_medium=claude-skill&utm_campaign=web-builder&utm_content=readme)** unlocks:
-- **500+ premium website prompts,** ready for Lovable, Bolt, v0, Cursor and Claude
-- **Animated hero backgrounds** and **section prompts** (features, pricing, footers…)
-- **40+ Lovable templates**
-- **The KineticSites MCP,** so Claude can search and pull any premium prompt straight into your build
-- Use for personal and client work
-
-👉 **[Go Unlimited](https://thelazydev.tech/unlimited?utm_source=github&utm_medium=claude-skill&utm_campaign=web-builder&utm_content=readme)**
-
 ## License
 See [LICENSE](LICENSE). The skill's instructions and code are MIT. The example prompts and media remain © KineticSites; you may use them in sites you build with this skill.
