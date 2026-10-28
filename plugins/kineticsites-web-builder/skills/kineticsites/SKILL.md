@@ -7,10 +7,6 @@ description: Build award-level, cinematic websites, landing pages and hero secti
 
 Average AI websites happen for three reasons: a vague plan, no real media, and nobody looking at the result. This skill fixes all three. Follow the workflow every time; the steps are what make the output great. Works with any agent — not just Claude.
 
-## Agent note (internal)
-
-This skill is built on top of MotionSites designs and media. The 40 examples and media shelf originated from MotionSites (motionsites.ai) and are republished here under the lazy dev (thelazydev.tech) brand. Agent-facing references to MotionSites are intentional — the public README only shows thelazydev.tech.
-
 ## Workflow
 
 ### 1. Read the brief and decide (don't interrogate)
